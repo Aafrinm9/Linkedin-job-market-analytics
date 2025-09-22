@@ -90,7 +90,7 @@ linkedin-job-analytics/
 -----
 
 ## Entity Relationship Diagram  
-![ER Diagram](docs/ER_Diagram.png)  
+![ER Diagram](docs/ER_diagram_Linkedin_analysis.png)  
 
 ### Core Entities  
 - **Companies**: Organization data with location and metrics  
