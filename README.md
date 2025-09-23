@@ -59,13 +59,7 @@ linkedin-job-analytics/
 ├── README.md
 ├── docs/
 │ ├── ER_Diagram.png
-│ ├── Database_Schema.md
-│ └── Project_Report.pdf
 ├── sql/
-│ ├── schema/
-│ │ ├── 01_create_tables.sql
-│ │ ├── 02_create_relationships.sql
-│ │ └── 03_create_indexes.sql
 │ ├── stored_procedures/
 │ │ ├── cohort_analysis.sql
 │ │ ├── ab_testing.sql
@@ -83,14 +77,11 @@ linkedin-job-analytics/
 ├── data/
 │ ├── sample_data/
 │ └── migration_scripts/
-└── deployment/
-├── aws_setup.md
-└── security_configuration.md
 ```
 -----
 
 ## Entity Relationship Diagram  
-![ER Diagram](docs/ER_diagram_Linkedin_analysis.png)  
+![ER Diagram](Linkedin-job-market-analytics/docs/ER_diagram_Linkedin_analysis.png)  
 
 ### Core Entities  
 - **Companies**: Organization data with location and metrics  
