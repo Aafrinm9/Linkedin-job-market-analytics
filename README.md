@@ -61,22 +61,17 @@ linkedin-job-analytics/
 │ ├── ER_Diagram.png
 ├── sql/
 │ ├── stored_procedures/
-│ │ ├── cohort_analysis.sql
-│ │ ├── ab_testing.sql
-│ │ └── analytics_procedures.sql
+│ │ ├── skills_analysis.sql...
 │ ├── triggers/
 │ │ └── data_triggers.sql
 │ └── queries/
 │ ├── advanced_analytics.sql
 │ ├── cohort_queries.sql
-│ └── market_analysis.sql
+│ └── ab_test_analysis.sql.....
 ├── python/
 │ ├── aws_connection.py
-│ ├── data_migration.py
-│ └── analytics_examples.py
 ├── data/
-│ ├── sample_data/
-│ └── migration_scripts/
+│ ├── archive.zip/
 ```
 -----
 
