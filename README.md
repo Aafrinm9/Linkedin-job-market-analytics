@@ -81,8 +81,7 @@ linkedin-job-analytics/
 -----
 
 ## Entity Relationship Diagram  
-![ER Diagram](Linkedin-job-market-analytics/docs
-/ER_diagram_Linkedin_analysis.png)
+![ER Diagram](Linkedin-job-market-analytics/docs/ER_diagram_Linkedin_analysis.png)
 
 ### Core Entities  
 - **Companies**: Organization data with location and metrics  
@@ -144,12 +143,14 @@ print(ab_results)
 - Time-based cohorts (Q1 vs Q2 performance)
 - Company-based cohorts (startup vs enterprise hiring)
 - Skill-based cohorts (trending skill combinations)
+  
 **2. A/B Testing Framework**
 - Statistical testing for hiring optimization:
 - Job description effectiveness
 - Benefit presentation strategies
 - Skill requirement optimization
 Statistical significance calculations
+
 **3. Market Intelligence**
 - Cross-industry skill migration patterns
 - Geographic job distribution analysis
@@ -162,6 +163,7 @@ Statistical significance calculations
 - Improved data integrity with foreign key constraints
 - Enhanced query performance with proper indexing
 - Scalable structure supporting millions of records
+  
 **Advanced Features**
 - 10+ stored procedures for automated analytics
 - 5+ triggers for real-time data consistency
@@ -175,6 +177,7 @@ Statistical significance calculations
 - Storage: 20GB General Purpose SSD
 - Security: VPC with controlled access
 - Backup: Automated daily backups
+  
 **Security Features**
 - VPC security groups with IP restrictions
 - IAM-based access control
@@ -187,6 +190,7 @@ Statistical significance calculations
 - Reduced data redundancy by 60%
 - Achieved sub-second query response times
 - Maintained 99.9% data integrity
+  
 **Analytical Outcomes**
 - Identified top 5 transferable skills across industries
 - Discovered 23% variance in hiring success by job description length
