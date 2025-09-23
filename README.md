@@ -81,7 +81,8 @@ linkedin-job-analytics/
 -----
 
 ## Entity Relationship Diagram  
-![ER Diagram](Linkedin-job-market-analytics/docs/ER_diagram_Linkedin_analysis.png)  
+![ER Diagram](Linkedin-job-market-analytics/docs
+/ER_diagram_Linkedin_analysis.png)
 
 ### Core Entities  
 - **Companies**: Organization data with location and metrics  
